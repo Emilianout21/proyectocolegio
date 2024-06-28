@@ -1,0 +1,16 @@
+css
+img
+js
+scss
+index.html
+acerca.html
+modelo_educativo.html
+proyectos.html
+contact.html 
+
+COLORES DEL COLEGIO CENTENARIO CHETUMAL:
+Verde: #70B62C
+Amarillo: #FCBF00
+Rojo: #E83755
+Azul: #0052A1
+Gris:#474746
